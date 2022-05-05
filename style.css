@@ -1,0 +1,27 @@
+#earth {
+  margin: 0px;
+}
+
+.full_page {
+  margin: 0px;
+  background-color: black;
+}
+
+.header {
+  height: 10%;
+  width: 100%;
+  background-color: black;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  background-image: rgba(10, 6, 36, 0.637), url("wallpaper.jpg");
+}
+
+div {
+  height: 50px;
+  width: 50px;
+  background-color: black;
+}
